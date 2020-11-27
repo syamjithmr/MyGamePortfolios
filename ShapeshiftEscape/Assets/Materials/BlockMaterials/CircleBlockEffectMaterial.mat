@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CircleBlockEffectMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 7f2bb08c34a5d5f41a88e35be2ee977a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_7F8832D0:
+        m_Texture: {fileID: 2800000, guid: d54046e47db64044b9ecda95bacf52cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FE9C2E99:
+        m_Texture: {fileID: 2800000, guid: d54046e47db64044b9ecda95bacf52cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_ECB6B435_Out_0:
+        m_Texture: {fileID: 2800000, guid: d54046e47db64044b9ecda95bacf52cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_6336A0D6: 3
+    - Vector1_72FCB230: 9
+    - Vector1_C4058C9E: 0.5
+    m_Colors:
+    - Color_2C2F36D8: {r: 0, g: 0, b: 0, a: 0}
+    - Color_B1CF56DB: {r: 0, g: 2, b: 2, a: 1}
+    - Color_FC4A1307: {r: 0, g: 0.7843137, b: 1, a: 1}
+    - Vector2_6637CF10: {r: 0.1, g: -0.5, b: 0, a: 0}
+    - Vector2_B37F7AD5: {r: 0, g: 0.7, b: 0, a: 0}
+    - Vector2_C12ED53E: {r: 10, g: 10, b: 0, a: 0}
